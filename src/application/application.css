@@ -1,0 +1,19 @@
+
+.fondo{
+	-fx-background-image: url("sky.jpeg");
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat ;
+	
+}
+.jfx-button{
+	-fx-background-color: orange;
+	-fx-background-radius:6; 
+}
+
+#pie{
+	-fx-background-color: orange;
+}
+
+.jfx-button:hover{
+	-fx-background-color: red; 
+}
